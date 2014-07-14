@@ -5,6 +5,7 @@ body {
 .min-width {
 	width: 921px;
 	margin: 0 auto;
+        padding:0;
 }
 /*-----------------HEADER-----------------------*/
 header {
